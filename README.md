@@ -5,4 +5,4 @@ There has been a surge in crimes committed in recent years, making crime a top c
 
 Predictive algorithm - Binary Logistic Algorithm
 
-Result - Under top 50 position , Accuracy - 0.9371
+Result - Under top 50th position , Accuracy - 0.9371
